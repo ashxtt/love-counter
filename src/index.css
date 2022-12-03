@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Nunito:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Varela+Round&display=swap');
 
 
 * {
@@ -15,12 +15,13 @@
 
 body{
   
-  font-family: 'Nunito', sans-serif;
+  
   color:#2F2F2F;
   background-color: white;
 }
 
 .nav-bar{
+  font-family: 'Varela Round', sans-serif;
   padding: 10px;
   margin:0;
   background-color: #EBC8EC;
