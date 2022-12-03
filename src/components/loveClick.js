@@ -25,7 +25,7 @@ function Counter() {
         <div className="love-counter">
             <span> MY LOVE FOR YOU IS:   {counterObj.love} TIMES GREATER THAN YOURS!</span>
             <section>
-                <button className="heart" onClick={handleIncrement}><span class="entypo-heart"></span></button>
+                <button className="heart" onClick={handleIncrement}><i class="fa fa-heart"></i></button>
              <button  className="reset" onClick={handleReset}><i class="fa fa-refresh"></i></button>
             </section>
             <div className="gif">
